@@ -2,7 +2,7 @@ package xclient
 
 import (
 	"context"
-	"hrpc/rpc"
+	rpc "hrpc"
 	"io"
 	"reflect"
 	"sync"

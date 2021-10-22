@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"hrpc/rpc/codec"
+	"hrpc/codec"
 	"time"
 )
 

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"hrpc/rpc/codec"
+	"hrpc/codec"
 	"io"
 	"log"
 	"net"
